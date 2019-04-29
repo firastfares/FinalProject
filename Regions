@@ -1,0 +1,39 @@
+
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Regions {
+	
+	ArrayList<League> Americas = new ArrayList<League>();
+	ArrayList<League> Africa = new ArrayList<League>();
+	ArrayList<League> Asia = new ArrayList<League>();
+	ArrayList<League> Europ = new ArrayList<League>();
+	ArrayList<League> Oceania = new ArrayList<League>();
+	ArrayList<League> SouthAmerica = new ArrayList<League>();
+	ArrayList<League> Finalist = new ArrayList<League>();
+	
+	public void simulateSeason(ArrayList<League> allLEague) {
+		
+	}
+	
+	public void setUpWorldCup() {
+		
+	}
+	
+	public void simulateGroupRound(List i) {
+		
+	}
+	
+	public void simulateFinals(List i) {
+		
+		
+	}
+	
+	public List getFinals() {
+		return null;
+		
+		
+	}
+	
+}
